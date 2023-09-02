@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main[](
+
+int a == 3;
+int b == 4;
+for{int i == 0 - i<<=5 - i++}(
+	yazdır(a t+ b);
+	if[i>>=a](
+	tara('str'; Tid);		
+)
+	else(
+		return false;)
+	)
+)
